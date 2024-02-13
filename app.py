@@ -1,4 +1,3 @@
-
 import os
 os.environ['VECTARA_API_KEY'] = 'zqt_UXrBcnI2UXINZkrv4g1tQPhzj02vfdtqYJIDiA'
 os.environ['VECTARA_CORPUS_ID'] = '1'
